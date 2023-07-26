@@ -1,0 +1,19 @@
+Job Title Search
+
+
+
+
+(Software Engineer) 1. This selection is in spot one because it is the job description that most intrigues me. Working with a team or even leading 
+a team in system design to make a piece or pieces of software that fluidly and efficiently work together to improve or solve a real world issue/demand
+is something that would keep me interested on a daily basis. Ideally the candidate for this position should have a strong knowledge with database management tools
+proficient in at least one programming language such as Python and be capable of debugging, code optimization and hands on learning.
+
+
+
+
+(Developer) 2. In the number two spot I have selected Developer. This selection is due to the fact that there is a large amount of overlap between this selection and that of a software engineer. In addition to most of the same roles/responsibilities of a software engineer, a developer will often have additional responsibilities that include more of a hands on role with the software that is being developed such as the maintenance of that software, working closely with project managers, and debugging the developed software. 
+
+
+
+
+(Front End Developer) 3. This selection is more of a pragmatic selection, but not without a lot of the same responsibilities and roles of my other selections. This selection focuses on the design and upkeep of mostly client facing software applications. This role prefers experience with front end languages as well as experience with things such as AJAX and staying up to date with the latest web development techniques. The primary reason this selection is on this list is because currently I feel most comfortable working within frontend frameworks and the software that is associated with them. 
